@@ -1,18 +1,3 @@
-         @@@
-        @@@@@
-       @@@@@@@
-      @@@@@@@@@
-       @@@@@@@
-        @@@@@
-         @@@
-          |
-          |
-         / \
-        /   \
-       /     \
-      /       \
-     /         \
-
 # 🌸 Flower Blossom
 
 **Flower Blossom** is a simple and elegant HTML webpage that showcases the beauty of flowers.  
