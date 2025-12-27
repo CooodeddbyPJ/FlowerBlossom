@@ -2,6 +2,8 @@
 
 > **A captivating CSS art animation featuring blooming flowers under a starry night sky.**
 
+[![Live Demo](https://img.shields.io/badge/🚀_View_Live_Demo-Click_Here-ff69b4?style=for-the-badge)](https://cooodeddbypj.github.io/FlowerBlossom/)
+
 **Mystical Pink Garden** is a customized web project that showcases the beauty of CSS animations and 3D transformations. Originally based on a viral open-source script, this version has been refactored and restyled to feature a "Sakura-inspired" aesthetic with a glowing magical atmosphere.
 
 ---
@@ -24,10 +26,13 @@ This project served as a practice ground for:
 ---
 
 ## ▶️ How to Run
+**Option 1: Live Demo**
+Simply click the "View Live Demo" badge above or visit: [https://cooodeddbypj.github.io/FlowerBlossom/](https://cooodeddbypj.github.io/FlowerBlossom/)
+
+**Option 2: Local Installation**
 1. **Clone** this repository or download the ZIP file.
 2. Locate the `index.html` file in the folder.
 3. **Double-click** to open it in any modern web browser (Chrome, Edge, Firefox).
-4. Watch the garden bloom! 🌸
 
 ---
 
