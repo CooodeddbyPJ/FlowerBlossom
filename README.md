@@ -1,42 +1,59 @@
-# 🌸 Flower Blossom
+# 🌸 Mystical Pink Garden (Flower Blossom)
 
-**Flower Blossom** is a simple and elegant HTML webpage that showcases the beauty of flowers.  
-It is designed for beginners learning HTML structure, tags, and basic webpage layout.
+> **A captivating CSS art animation featuring blooming flowers under a starry night sky.**
+
+**Mystical Pink Garden** is a customized web project that showcases the beauty of CSS animations and 3D transformations. Originally based on a viral open-source script, this version has been refactored and restyled to feature a "Sakura-inspired" aesthetic with a glowing magical atmosphere.
+
+---
+
+## 📸 Preview
+![Project Preview](https://via.placeholder.com/800x400?text=Run+the+HTML+file+to+see+the+Magic)
 
 ---
 
 ## 🎯 Features
-- **Beautiful Flower Theme** — Clean design inspired by nature.
-- **Simple HTML Structure** — Ideal for beginners practicing HTML.
-- **Readable and Organized Code** — Easy to understand for learning purposes.
+- **🎨 Custom Color Palette** — Transformed from the original teal to a romantic gradient of **Pinks, Lavenders, and Violets**.
+- **✨ Particle System** — Added a twinkling **Star Background** to enhance the night sky atmosphere.
+- **🖋️ Typography Integration** — Integrated Google Fonts (`Dancing Script`) for an elegant, glowing message display.
+- **⚙️ Advanced CSS Animation** — Utilizes complex `@keyframes` for blooming effects, swaying grass, and glowing lights.
 
 ---
 
-## 📚 Learning Objectives
-- Understanding basic HTML tags like `<html>`, `<head>`, `<title>`, `<body>`, and text formatting tags.
-- Structuring a webpage using headings, paragraphs, and line breaks.
-- Creating a themed webpage with descriptive content.
+## 📚 Technical Learnings
+This project served as a practice ground for:
+- **Code Refactoring:** Analyzing and modifying complex existing codebases.
+- **CSS Variables:** Manipulating `:root` variables to alter color themes globally.
+- **DOM Structure:** Understanding the hierarchy of `div` elements to create 3D-like visuals.
+- **CSS Positioning:** Using `absolute` and `relative` positioning to layer elements (background, stars, flowers, text).
 
 ---
 
 ## ▶️ How to Run
-1. Download or clone this repository.
-2. Open the HTML file in any web browser.
-3. Enjoy the flower-themed webpage.
-
----
-
-## 💡 Future Improvements
-- Add **CSS styling** for a more visually appealing design.
-- Include **flower images** and a photo gallery.
-- Create a **responsive layout** for mobile and desktop viewing.
+1. **Clone** this repository or download the ZIP file.
+2. Locate the `index.html` file in the folder.
+3. **Double-click** to open it in any modern web browser (Chrome, Edge, Firefox).
+4. Watch the garden bloom! 🌸
 
 ---
 
 ## 🛠️ Technologies Used
-- HTML5
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-## ✨ Credits
-Credits to the owner — **meowish.dev**
+## 💡 Future Improvements
+- [ ] Add background music (lofi or instrumental) for better ambience.
+- [ ] Make the text message dynamic/editable via a prompt.
+- [ ] Add interactivity (flowers move when hovered by mouse).
+
+---
+
+## ✨ Credits & Attribution
+
+This project is a **customized modification** for educational and portfolio purposes.
+
+- **Original Concept & Base Logic:** Credits to **meowish.dev**
+- **Refactoring & Redesign (Pink Version):** PJ | Full Stack Dreamer
+
+---
+*Created with ❤️ for Web Development Practice.*
