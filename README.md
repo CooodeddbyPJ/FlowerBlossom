@@ -6,11 +6,6 @@
 
 ---
 
-## 📸 Preview
-![Project Preview](https://via.placeholder.com/800x400?text=Run+the+HTML+file+to+see+the+Magic)
-
----
-
 ## 🎯 Features
 - **🎨 Custom Color Palette** — Transformed from the original teal to a romantic gradient of **Pinks, Lavenders, and Violets**.
 - **✨ Particle System** — Added a twinkling **Star Background** to enhance the night sky atmosphere.
